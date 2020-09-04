@@ -1,2 +1,2 @@
 # RB
-An portfolio website (incomplete + not mobile-friendly) involving css-animations.
+An portfolio website (incomplete + not mobile-friendly) using css-animations.
